@@ -7,4 +7,4 @@ http://localhost:8092/START  ,
 http://localhost:8092/Board  ,
 http://localhost:8092/{colID}
 
-# Tools & Technology : Java, Restful, Spring Boot
+# Tools & Technology : Java, Restful API, Spring Boot

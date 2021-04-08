@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Game4
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rajnish
+Implementation-Vendor-Id: com.connect4.Game4
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Game4
+Created-By: Maven Integration for Eclipse
+

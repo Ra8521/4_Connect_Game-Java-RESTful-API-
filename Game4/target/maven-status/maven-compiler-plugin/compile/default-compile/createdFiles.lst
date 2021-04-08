@@ -1,0 +1,6 @@
+com\connect4\Game\Exception\GameException.class
+com\connect4\Game4\resource\CheckWinner.class
+com\connect4\Game4\GameLauncher.class
+com\connect4\Game4\resource\GameContoller.class
+com\connect4\Game4\model\Cell.class
+com\connect4\Game4\model\GameBoard.class
